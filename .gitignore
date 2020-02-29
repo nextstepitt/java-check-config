@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+.metadata/
+.settings/
+RemoteSystemsTempFiles/
+target/
+.classpath
+.project
+*.iml
+gradlew
+gradlew.bat
